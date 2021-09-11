@@ -1,0 +1,6 @@
+Quantus,IAD,KIAD,Call sign,frequent flyer,alliance,washington,WA,01,us.com
+KLM,J7,ABS,AFRI JET,frequent flyer,alliance,Gabon,GA,02,us.com
+SpiceJet,5K,HFY,SKY Flyer,frequent flyer,alliance,HighFly,HI,03,us.com
+TruJet,JFK,KJFK,Call sign,frequent flyer,alliance,New York,NY,04,us.com
+Delta,LY,ELY,EL AL,frequent flyer,alliance,Israel,IL,05,us.com
+INDIGO,AI,AIC,ATA,frequent flyer,alliance,India,other,06,us.com
