@@ -1,0 +1,38 @@
+1. var s="hello, world"
+   undefined
+  s.charAt(0)
+  'h'
+
+  s.charAt(s.length-1)
+  'd'
+
+  s.substring(1,4)
+  'ell'
+
+  s.slice(-3)
+  'rld'
+
+  s.indexOf("l")
+  2
+
+  s.lastIndexOf("l",3)
+  3
+
+  s.split(",")
+  (2) ['hello', ' world']
+
+  s.replaceAll("l","L")
+  'heLLo, worLd'
+
+  s.toUpperCase()
+  'HELLO, WORLD'
+
+  "helloworld".repeat(3)
+  'helloworldhelloworldhelloworld'
+
+2.const age=25
+  undefined
+  age
+  25
+  `Next yaer I will be ${age+1}`
+   Next yaer I will be 26`
